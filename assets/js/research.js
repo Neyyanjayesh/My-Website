@@ -22,11 +22,11 @@ const research = [
   },
 
   {
-    title: "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+    title: "GumRoad",
     authors:
-      "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",
+      "Find Notion Templates, Cover arts and Illustrations",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
+      "",
     researchYr: 2020,
     citebox: "popup2",
     image: "assets/images/research-page/crossLingual.png",
@@ -35,7 +35,7 @@ const research = [
         "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 2",
+      "Gumroad site",
     absbox: "absPopup2",
   },
 
